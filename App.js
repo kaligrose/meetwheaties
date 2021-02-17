@@ -1,3 +1,4 @@
+//tim wu
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { TextInput, TouchableOpacity, Image, StyleSheet, Text, View } from 'react-native';
